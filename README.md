@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1000c0
-- 👀 I’m interested in Engineering
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python and Management
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
