@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1000c0
+- 👋 Hi, I’m @Siyeong Cheon
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python and Management
 - 💞️ I’m looking to collaborate on ...
