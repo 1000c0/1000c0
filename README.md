@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siyeong Cheon
+- 👋 Welcome to my repository
 - 👀 I’m interested in Computer Science
 
 
